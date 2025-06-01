@@ -8,7 +8,7 @@ Software Engineering student at the **State University of Pará (UEPA)**, passio
 
 ### 🚀 About Me
 
-- 🎓 Currently in the 2nd semester of the **Software Engineering** program at **UEPA**  
+- 🎓 **Software Engineering** at **UEPA**  
 - 🛡️ Focused on learning and working in the field of **Cybersecurity**, with interest in both offensive (pentesting, bug bounty) and defensive (cloud security, DevSecOps) areas  
 - 💻 Building practical projects using **Python**, with a focus on security and best practices  
 - 📚 Committed to continuous learning in programming, security, technical English, and personal performance  
